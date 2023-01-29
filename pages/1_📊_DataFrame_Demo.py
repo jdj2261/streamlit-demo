@@ -4,7 +4,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import sys, os
 
-sys.path.append(os.path.abspath(os.path.dirname(__file__) + "/../../"))
+sys.path.append(os.path.abspath(os.path.dirname(__file__) + "/../"))
 from base_page import PageFrame
 
 plt.rcParams["axes.unicode_minus"] = False
