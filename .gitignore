@@ -1,0 +1,8 @@
+.DS_Store
+*.pickle
+national-pension.csv
+tutorials
+*.ipynb_checkpoints
+__pycache__
+result/
+img/
