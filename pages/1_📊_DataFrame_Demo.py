@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import sys, os
 
 sys.path.append(os.path.abspath(os.path.dirname(__file__) + "/../../"))
-from gui.base_page import PageFrame
+from base_page import PageFrame
 
 plt.rcParams["axes.unicode_minus"] = False
 plt.rcParams["font.family"] = "NanumGothic"

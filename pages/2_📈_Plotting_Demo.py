@@ -11,7 +11,7 @@ import matplotlib.pyplot as plt
 from plotly.subplots import make_subplots
 
 sys.path.append(os.path.abspath(os.path.dirname(__file__) + "/../../"))
-from gui.base_page import PageFrame
+from base_page import PageFrame
 
 
 class PlottingPage(PageFrame):
